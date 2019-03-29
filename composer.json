@@ -1,0 +1,12 @@
+{
+    "name": "nimdevelopment/coupons",
+    "description": "A package for making, validating and applying coupons discounts.",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+                "NimDevelopment\\Coupons\\":"./src"
+        }
+    }
+}
